@@ -34,6 +34,9 @@
 # CMake build files
 build/
 
+# VSCode / Code OSS Cache dir 
+.cache/
+
 # Assorted files
 *.env
 *.log
