@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# CMake build files
+build/
+
+# Assorted files
+*.env
+*.log
